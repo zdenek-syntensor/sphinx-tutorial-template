@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'torchdyn_sphinx_theme'
 ]
 
 intersphinx_mapping = {
