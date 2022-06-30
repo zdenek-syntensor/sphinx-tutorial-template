@@ -32,7 +32,7 @@ templates_path = ['_templates']
 
 html_theme = 'torchdyn_sphinx_theme'
 html_theme_options = {
-	'logo': '_static/torchdyn_logo.svg',
+	'logo': '../_static/torchdyn_logo.svg',
 }
 
 # -- Options for EPUB output
