@@ -31,7 +31,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'torchdyn_sphinx_theme'
-#html_theme_path = ['../_themes',]
+html_theme_options = {
+	'logo': '_static/torchdyn_logo.svg',
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
