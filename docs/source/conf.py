@@ -29,8 +29,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'pt_lightning_sphinx_theme'
-html_theme_path = ['../_themes',]
+html_theme = 'torchdyn_sphinx_theme'
+#html_theme_path = ['../_themes',]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
